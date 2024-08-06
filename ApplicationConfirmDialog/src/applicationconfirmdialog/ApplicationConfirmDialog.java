@@ -11,6 +11,7 @@ public class ApplicationConfirmDialog {
                 "Excluir", 
                 JOptionPane.YES_NO_CANCEL_OPTION, 
                 JOptionPane.QUESTION_MESSAGE);
+    System.out.printf("agradeço ");        
     }
-    
+
 }
